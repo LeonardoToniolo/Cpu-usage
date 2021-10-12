@@ -12,7 +12,7 @@
   "author": "Leonardo Toniolo",
   "license": "CC0-1.0",
   "dependencies": {
-    "electron": "^9.0.2",
+    "electron": "^11.5.0",
     "electron-chartjs": "^1.0.0",
     "node": "^14.4.0",
     "os-utils": "0.0.14"
